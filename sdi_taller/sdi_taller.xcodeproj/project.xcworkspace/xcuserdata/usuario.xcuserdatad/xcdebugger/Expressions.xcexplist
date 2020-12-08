@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ListadoController.collectionView(_:cellForItemAt:):ListadoController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cell.nombreLabel.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in ListadoController.scrollViewDidScroll(_:):ListadoController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "beers.count">
+            </PersistentString>
+            <PersistentString
+               value = "(beers.count % WebService.numBeers)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in static WebService.getDatosBeers(completion:):WebService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "JSONSerialization.jsonObject(with: data!, options: [])">
+            </PersistentString>
+            <PersistentString
+               value = "beers">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
